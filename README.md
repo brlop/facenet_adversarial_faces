@@ -1,4 +1,4 @@
-*NOTE: This repository is just a copy of a contribution I made to the Cleverhans library: github.com/cleverhans-lab/cleverhans/tree/b54f65921a013aa57eb55f8ff6fd3a58018dbb0f/examples/facenet_adversarial_faces*
+*NOTE: This repository is just a copy of a contribution I made to the Cleverhans library: https://github.com/cleverhans-lab/cleverhans/tree/b54f65921a013aa57eb55f8ff6fd3a58018dbb0f/examples/facenet_adversarial_faces*
 
 # FGSM against Facenet
 This directory contains an implementation of the FGSM attack against one of the face recognition CNNs of the Facenet library.
